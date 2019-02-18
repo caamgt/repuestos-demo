@@ -47,15 +47,5 @@
         "vin": "zx44551s552",
         "parte": "z555625",
         "img": "https://http2.mlstatic.com/disco-de-clutch-zx-auto-pickup-admiral-china-D_NQ_NP_972542-MLV26724353485_012018-F.jpg"
-    },
-    {
-        "id": 6,
-        "marca": "Maserati",
-        "linea": "GranTurismo",
-        "modelo": "2018",
-        "descripcion": "bomba de aceite",
-        "vin": "ma447532563",
-        "parte": "ms5648",
-        "img": "http://boliche.cl/1834-large_default/bomba-aceite-aveooptra.jpg"
     }
 ]
